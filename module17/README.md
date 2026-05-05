@@ -1,22 +1,20 @@
-**Remember:**
+# Module 15 Labs
 
--   Keep detailed notes during each lab to make documenting easier.
 
--   Include screenshots or configuration files to support your
-    > documentation.
+[IT533 Module11 Lab 32](./lab32)
 
--   Reflect on what you learned in each lab and any challenges you
-    > faced.
+[IT533 Module11 Lab 33](./lab33)
 
-###  **Check and Document Your Results**
+[IT533 Module11 Lab 34](./lab34)
 
-After completing the lab, use the "Check Results" feature as shown in
-the video.\
-Take at least **two screenshots**:
+[IT533 Module11 Lab 35](./lab35)
 
--   One of the assessments
+[IT533 Module11 Lab 36](./lab36)
 
--   One of the assessment items
+[IT533 Module11 Lab 37](./lab37)
 
-Paste these into your Word document along with any required answers.
+[IT533 Module11 Lab 38](./lab38)
 
+[IT533 Module11 Lab 39](./lab39)
+
+[IT533 Module11 Lab 40](./lab40)
