@@ -27,7 +27,7 @@ Q: What is the setting for bits per second?
 
 9600
 
-![](./media/media/image1.png){width="6.5in"
+![](./media/image1.png){width="6.5in"
 height="2.9101017060367456in"}
 
 Q: What is the prompt displayed on the screen?
@@ -38,7 +38,7 @@ Q: Which command begins with the letter 'C'?
 
 connect
 
-![](./media/media/image4.png){width="5.270833333333333in"
+![](./media/image4.png){width="5.270833333333333in"
 height="2.8020833333333335in"}
 
 Q: b. At the prompt, type t and then a question mark (?).
@@ -262,8 +262,8 @@ either
 
 After some time it seems to time out and return to the \# prompt
 
-![](./media/media/image3.png){width="6.5in"
+![](./media/image3.png){width="6.5in"
 height="2.3194444444444446in"}
 
-![](./media/media/image2.png){width="6.5in"
+![](./media/image2.png){width="6.5in"
 height="2.0972222222222223in"}
