@@ -32,6 +32,6 @@ Step 3 Upload  all files to github
 
 [IT533 Module17](./module17)
 
-[IT533 Module18](./module18))
+[IT533 Module18](./module18)
 
 
